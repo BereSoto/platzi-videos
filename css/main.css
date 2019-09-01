@@ -14,3 +14,22 @@ header img{
   margin-top: 10px;
   margin-left: 10px;
 }
+
+.header__menu{
+  margin-right: 30px;
+}
+
+.header__menu ul{
+  list-style: none;
+  padding: 0;
+  position: absolute;
+  width: 10px;
+}
+.header__menu--profile{
+  margin-right: 8px;
+  width: 40px;
+}
+
+
+
+
