@@ -70,8 +70,8 @@ object-fit: cover;
 }
 
 .carousel__item-details--icons{
-    width: 20px;
-    height: 20px;
+    width: 10px;
+    height: 10px;
 }
 .carousel__item-details--title{
     font-size: 15px;
